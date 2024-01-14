@@ -1,2 +1,4 @@
 This is a git file 
  today is sunday
+writing some more lines after first commit
+this is git bash
